@@ -1,0 +1,6 @@
+framework module SMBaseComponent {
+  umbrella header "SMBaseComponent-umbrella.h"
+
+  export *
+  module * { export * }
+}

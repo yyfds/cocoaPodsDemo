@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-cocoapodsDemo/Pods-cocoapodsDemo-frameworks.sh
+${PODS_ROOT}/SMBaseComponent/Products/SMBase.framework
+${PODS_ROOT}/SMBaseComponent/Pods/NIMSDK_LITE/NIMSDK/NIMSDK.framework
+${BUILT_PRODUCTS_DIR}/SMBaseComponent/SMBaseComponent.framework
